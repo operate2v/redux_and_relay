@@ -1,0 +1,3 @@
+rootProject.name = 'redux_and_relay'
+
+include ':app'
